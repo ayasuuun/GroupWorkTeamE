@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<p>検索したい内容を書いてください</p>
+<p>検索したい内容を書いてください練習用</p>
 
 <form action="/PrototypeBook/Main" method="post">
 
